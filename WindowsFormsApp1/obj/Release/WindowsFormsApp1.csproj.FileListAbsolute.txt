@@ -1,0 +1,12 @@
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Registration.resources
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\Other Projects\BasicDesktopApp\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CoreCompileInputs.cache
