@@ -11,7 +11,7 @@ namespace WindowsFormsApp1
     {
         public static SqlConnection connect()
         {
-            string connectionString = @"Data Source=DESKTOP-123\SQLEXPRESS;Initial Catalog=TestDB;Integrated Security=True";
+            string connectionString = @"Data Source=DESKTOP-123123\SQLEXPRESS;Initial Catalog=TestDB;Integrated Security=True";
             SqlConnection con = new SqlConnection(connectionString);
             con.Open();
             return con;
